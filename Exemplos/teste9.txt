@@ -1,6 +1,4 @@
 exemplo pull
 <<<<<<< HEAD
 Luiza 
-=======
-cpti
->>>>>>> 2b471d3f23df6c51b64d9c7aeaf0de0669bfc9c8
+
